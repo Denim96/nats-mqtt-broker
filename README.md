@@ -9,7 +9,7 @@ docker-compose --version
 ```
 Run the docker-compose script
 ```bash
-docker-compose -f docker-compose-windows.yml up --build -d
+docker-compose -f docker-compose-windows.yaml up --build -d
 ```
 
 # 2. Running on Linux or Mac
